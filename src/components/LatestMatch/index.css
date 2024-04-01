@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.match-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 90%;
+}
+.match-heading {
+  align-self: flex-start;
+  font-size: 28px;
+}
+.container {
+  background-color: #0f172a;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.match-details{
+  color: #ffffff;
+}

@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.link {
+  text-decoration: none;
+  width: 400px;
+  padding: 15px;
+  height: 150px;
+  border: 3px solid #ffffff33;
+  border-radius: 12px;
+  background-color: #475569;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+.team-logo {
+  width: 120px;
+  height: 120px;
+  margin-right: 15px;
+}
+.team-name {
+  text-align: center;
+  font-weight: 100;
+}

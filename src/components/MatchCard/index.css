@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.team-logo {
+  width: 100px;
+  height: 100px;
+}
+.won {
+  color: #18ed66;
+}
+.lost {
+  color: #e31a1a;
+}
